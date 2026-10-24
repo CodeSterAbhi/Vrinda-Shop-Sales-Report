@@ -6,7 +6,7 @@ An interactive Excel dashboard that turns a year of online fashion orders into a
 
 ![Vrinda Store dashboard](DashboardScreenshot.jpeg)
 
-**Quick links:** [Full report (PDF)](Vrinda_Store_Sales_Report.pdf) · [Excel dashboard](Vrinda_Store_Sales_Dashboard.xlsx)
+**Quick links:** [Full report (PDF)](Vrinda_Store_Sales_Report.pdf) · [Excel dashboard](Vrinda_Store_Data_Analysis_Dashboard.xlsx)
 
 ---
 
@@ -57,8 +57,8 @@ Vrinda Store wants an annual report for 2022 that shows who its customers are, w
 | File | Description |
 |---|---|
 | [`Vrinda_Store_Sales_Report.pdf`](Vrinda_Store_Sales_Report.pdf) | Full report: problem, method, findings, recommendations, limitations |
-| [`Vrinda_Store_Sales_Dashboard.xlsx`](Vrinda_Store_Sales_Dashboard.xlsx) | Excel workbook with the raw data, pivot tables and dashboard |
-| [`images/dashboard.jpeg`](images/dashboard.jpeg) | Dashboard screenshot |
+| [`Vrinda_Store_Sales_Dashboard.xlsx`](Vrinda_Store_Data_Analysis_Dashboard.xlsx) | Excel workbook with the raw data, pivot tables and dashboard |
+| [`images/dashboard.jpeg`](DashboardScreeshot.jpeg) | Dashboard screenshot |
 
 ## How to open the dashboard
 
